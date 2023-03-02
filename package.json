@@ -1,0 +1,50 @@
+{
+  "name": "abrar-mystic-theme",
+  "displayName": "Mystic Theme",
+  "description": "A mysterious theme for proffesional.",
+  "publisher": "AbrarShakhi",
+  "license": "MIT",
+  "version": "0.3.0",
+  "bugs": {
+    "type": "git",
+    "url": "https://github.com/AbrarShakhi/mystic-theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AbrarShakhi/mystic-theme"
+  },
+  "icon": "img/icon.png",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "keywords": [
+    "mystic Theme",
+    "mystictheme",
+    "material theme",
+    "material",
+    "dark",
+    "pro",
+    "themes",
+    "mystic",
+    "dark theme",
+    "darktheme",
+    "theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mystic Classic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-Classic.json"
+      },
+      {
+        "label": "Mystic Another",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-Another.json"
+      }
+    ]
+  }
+}
