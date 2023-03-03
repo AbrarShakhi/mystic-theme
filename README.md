@@ -3,22 +3,22 @@
     <br><br> Mystic Theme
     <h5 align="center">A mysterious theme for proffesional.<h5><br>
     <h4 align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=AbrarShakhi.abrar-mystic-theme">Get the Theme into your VS Code.</a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=AbrarShakhi.abrar-mystic-theme">Download</a>
     </h4><br></h1>
-
 <br>
 
 
-<!-- --------------------------- -->
-<!-- ## What,s new in [0.4.0] -->
+---------------------------
+## What,s new in [0.4.0]
 
-<!-- ### Fixed -->
-<!-- * Terminal foreground color now matches with the editor forground color instand of tab forground. -->
-<!-- * fixed `README.md` file. -->
-<!-- * fixed img path, now screenshot and logo will appear perfectly. -->
-<!-- * changed so much colors. -->
+* symbol icon color added.
+* editor foregrounf color changed.
+* Terminal foreground color now matches with the editor forground color instand of tab forground.
+* fixed `README.md` file.
+* fixed img path, now screenshot and logo will appear perfectly.
+* changed editor bracket highlight color.
 
-<!-- [See more ](CHANGELOG.md) -->
+[See more ](CHANGELOG.md)
 
 <br>
 
@@ -43,13 +43,8 @@
 ---------------------------
 ## Theme Screenshot
 
-HTML - ScreenShot ![HTML - ScreenShot](/img/ss1.png)
-Java - ScreenShot ![Java - ScreenShot](/img/ss2.png)
-CSS - ScreenShot ![CSS - ScreenShot](/img/ss3.png)
-UI - ScreenShot [UI - ScreenShot](/img/ss4.png)
-JSON1 - ScreenShot ![JSON1 - ScreenShot](/img/ss5.png)
-JSON2 - ScreenShot ![JSON2 - ScreenShot](/img/ss6.png)
-- [Dracula Sample]
+![html/js/cpp](img/Screenshots/3in1ss.png)
+- [Dracula wallpaper]
 
 <br>
 
