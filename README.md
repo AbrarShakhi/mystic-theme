@@ -3,20 +3,15 @@
     <br><br> Mystic Theme
     <h5 align="center">A mysterious theme for proffesional.<h5><br>
     <h4 align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=AbrarShakhi.abrar-mystic-theme">Download</a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=AbrarShakhi.abrar-mystic-theme">Download for VScode</a>
     </h4><br></h1>
 <br>
 
 
 ---------------------------
-## What,s new in [0.4.0]
+## What,s new in [0.5.0]
 
-* symbol icon color added.
-* editor foregrounf color changed.
-* Terminal foreground color now matches with the editor forground color instand of tab forground.
-* fixed `README.md` file.
-* fixed img path, now screenshot and logo will appear perfectly.
-* changed editor bracket highlight color.
+* some token color changed.
 
 [See more ](CHANGELOG.md)
 
@@ -26,16 +21,16 @@
 ---------------------------
 ## Color
 
-|Column1     |Column2  |
-|------------|-------- |
-|comment     |#91a193  |
-|function    |#a2cf82  |
-|keyword     |#9ECBFF  |
-|constant    |#d0bf96  |
-|variable    |#E06C75  |
-|storage     |#C39AC9  |
-|string      |#e49760  |
-|foreground  |#91a193  |
+|scope       |hex-color |
+|------------|----------|
+|comment     |#91a193   |
+|function    |#a2cf82   |
+|keyword     |#9ECBFF   |
+|constant    |#d0bf96   |
+|variable    |#E06C75   |
+|storage     |#C39AC9   |
+|string      |#e49760   |
+|foreground  |#91a193   |
 
 <br>
 
@@ -43,8 +38,8 @@
 ---------------------------
 ## Theme Screenshot
 
-![html/js/cpp](img/Screenshots/3in1ss.png)
-- [Dracula wallpaper]
+![html/js/cpp](img/Snapshots/3in1ss.png)
+> [Dracula wallpaper]
 
 <br>
 

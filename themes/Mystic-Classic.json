@@ -55,9 +55,10 @@
     {
       "scope": [
         "entity",
+        "keyword.operator",
       ],
       "settings": {
-        "foreground": "#9cd1c8",
+        "foreground": "#9ECBFF"
       }
     },
     {
@@ -87,12 +88,11 @@
     {
       "scope": [
         "keyword",
-        "keyword.operator",
         "meta.block",
         "meta.parens"
       ],
       "settings": {
-        "foreground": "#9ECBFF",
+        "foreground": "#9cd1c8",
       }
     },
     {
