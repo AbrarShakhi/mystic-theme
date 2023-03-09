@@ -2,7 +2,19 @@
 
 
 ---------------------------
-## [0.5.0] - 7/1/2023
+## [1.0.0] - 3/9/2023
+
+### added
+* New Dark theme added
+* CSS color token added
+### Fixed
+* entity, keyword token color changed
+* editor foreground color changed
+* fixed some typos
+
+
+---------------------------
+## [0.5.0] - 3/7/2023
 
 ### Fixed
 * some token color changed.
@@ -14,7 +26,7 @@
 ### Added
 * symbol icon color added.
 ### Fixed
-* editor foregrounf color changed.
+* editor foreground color changed.
 * Terminal foreground color now matches with the editor forground color instand of tab forground.
 * fixed `README.md` file.
 * fixed img path, now screenshot and logo will appear perfectly.

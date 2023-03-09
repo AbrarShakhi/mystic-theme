@@ -9,16 +9,6 @@
 
 
 ---------------------------
-## What,s new in [0.5.0]
-
-* some token color changed.
-
-[See more ](CHANGELOG.md)
-
-<br>
-
-
----------------------------
 ## Color
 
 |scope       |hex-color |

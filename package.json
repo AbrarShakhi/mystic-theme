@@ -40,6 +40,11 @@
         "label": "Mystic Classic",
         "uiTheme": "vs-dark",
         "path": "./themes/Mystic-Classic.json"
+      },
+      {
+        "label": "Mystic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-Dark.json"
       }
     ]
   }
