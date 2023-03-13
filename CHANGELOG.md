@@ -2,6 +2,18 @@
 
 
 ---------------------------
+## [2.0.0] - 3/14/2023
+
+### added
+* tab border added
+* new glassy theme added
+### Fixed
+* status bar related colors changed.
+* variable token color
+* typo fixed
+
+
+---------------------------
 ## [1.0.0] - 3/9/2023
 
 ### added

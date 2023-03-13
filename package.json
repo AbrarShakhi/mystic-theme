@@ -16,7 +16,7 @@
   },
   "icon": "img/icon.png",
   "engines": {
-    "vscode": "^1.54.0"
+    "vscode": "^1.76.0"
   },
   "keywords": [
     "mystic Theme",
@@ -40,6 +40,11 @@
         "label": "Mystic Classic",
         "uiTheme": "vs-dark",
         "path": "./themes/Mystic-Classic.json"
+      },
+      {
+        "label": "Mystic Glassy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-Glassy.json"
       },
       {
         "label": "Mystic Dark",
