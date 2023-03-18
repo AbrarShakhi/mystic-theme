@@ -42,14 +42,19 @@
         "path": "./themes/Mystic-Classic.json"
       },
       {
-        "label": "Mystic Glassy",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Mystic-Glassy.json"
-      },
-      {
         "label": "Mystic Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Mystic-Dark.json"
+      },
+      {
+        "label": "Mystic Box",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-Box.json"
+      },
+      {
+        "label": "Mystic Cap",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-Cap.json"
       }
     ]
   }
