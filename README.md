@@ -7,34 +7,35 @@
     </h4><br></h1>
 <br>
 
+---
 
----------------------------
 ## Color
 
-|scope       |hex-color |
-|------------|----------|
-|comment     |#91a193   |
-|function    |#a2cf82   |
-|keyword     |#9ECBFF   |
-|constant    |#d0bf96   |
-|variable    |#E06C75   |
-|storage     |#C39AC9   |
-|string      |#e49760   |
-|foreground  |#91a193   |
+| scope      | hex-color |
+| ---------- | --------- |
+| comment    | #91a193   |
+| function   | #a2cf82   |
+| keyword    | #9ECBFF   |
+| constant   | #d0bf96   |
+| variable   | #E06C75   |
+| storage    | #C39AC9   |
+| string     | #e49760   |
+| foreground | #91a193   |
 
 <br>
 
+---
 
----------------------------
 ## Theme Screenshot
 
 ![html/js/cpp](img/Snapshots/3in1ss.png)
+
 > [Dracula wallpaper]
 
 <br>
 
+---
 
----------------------------
 ## Active theme
 
 1. First `Install` the theme
@@ -44,8 +45,8 @@
 
 <br>
 
+---
 
----------------------------
 ## Tweaks & theming
 
 Change color using `workbench.colorCustomizations ` to customize the theme. Example, Add this snippet in your `settings.json` file:
@@ -57,6 +58,7 @@ Change color using `workbench.colorCustomizations ` to customize the theme. Exam
     "sideBar.background": "#f00",
 }
 ```
+
 > Replace `#f00` to your favorite hex color
 
 or use the setting `editor.tokenColorCustomizations`
@@ -137,21 +139,21 @@ If you do not like the green color. paste the following color in `settings.json`
 
 <br>
 
+---
 
----------------------------
 ## Issues & Suggestions
 
 For any issues or suggestions, please use [GitHub issues](https://github.com/AbrarShakhi/mystic-theme/issues).
 
 <br>
 
+---
 
----------------------------
 ### Suggest Editor Settings
 
 ```json
 {
-    "editor.fontFamily": "Cascadia Code Light",
-    "editor.fontLigatures": "'calt', 'ss01'"
+  "editor.fontFamily": "Cascadia Code Light",
+  "editor.fontLigatures": "'calt', 'ss01'"
 }
 ```
