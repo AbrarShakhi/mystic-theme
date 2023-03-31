@@ -2,7 +2,16 @@
 
 ---
 
-## [3.0.0] - 3/18/2023
+## [3.1.0] - 4/1/2023
+
+### fixed
+
+- Tab hover border color.
+- editor suggest selection foreground
+
+---
+
+## [3.0.0] - 3/31/2023
 
 ### changed
 

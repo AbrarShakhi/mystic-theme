@@ -401,7 +401,7 @@
         "tab.activeModifiedBorder": "#c9c9c9",
         "tab.border": "#0000",
         "tab.hoverBackground": "#44455a",
-        "tab.hoverBorder": "#FFBD96",
+        /**/"tab.hoverBorder": "#0000",
         "tab.hoverForeground": "#d9d9d9",
         /**/"tab.inactiveBackground": "#1c1d32",
         "tab.inactiveForeground": "#b9b9b9",

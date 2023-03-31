@@ -1,9 +1,9 @@
 {
-	"$schema": "vscode://schemas/color-theme",
-	"name": "Mystic-Box",
-	"uuid": "32818916-3391-4bb2-8fe3-8931b236bef5",
-	"semanticHighlighting": true,
-	"tokenColors": [
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Mystic-Box",
+    "uuid": "32818916-3391-4bb2-8fe3-8931b236bef5",
+    "semanticHighlighting": true,
+    "tokenColors": [
         {
             "scope": "comment",
             "settings": {
@@ -143,7 +143,7 @@
             }
         },
     ],
-	"colors": {
+    "colors": {
         "activityBar.activeFocusBorder": "#FFBD96",
         "activityBar.activeBorder": "#FFBD96",
         "activityBar.background": "#151523",
@@ -251,8 +251,8 @@
         "editorGroup.dropBackground": "#44455a77",
         "editorGroup.emptyBackground": "#2c2d42",
         "editorGroup.focusedEmptyBorder": "#0000",
-        /**/"editorGroupHeader.noTabsBackground": "#1c1d32",
-        /**/"editorGroupHeader.tabsBackground": "#1c1d32",
+        /**/ "editorGroupHeader.noTabsBackground": "#1c1d32",
+        /**/ "editorGroupHeader.tabsBackground": "#1c1d32",
         "editorGroupHeader.tabsBorder": "#0000",
         "editorGutter.addedBackground": "#32a476",
         "editorGutter.background": "#0000",
@@ -286,6 +286,7 @@
         "editorSuggestWidget.focusHighlightForeground": "#FFBD96",
         "editorSuggestWidget.foreground": "#b9b9b9",
         "editorSuggestWidget.highlightForeground": "#d9d9d9",
+        "editorSuggestWidget.selectedForeground": "#d9d9d9",
         "editorSuggestWidget.selectedIconForeground": "#FFBD96",
         "editorSuggestWidget.selectedBackground": "#c9c9c929",
         "editorUnnecessaryCode.opacity": "#b9b9b977",
@@ -395,14 +396,14 @@
         "statusBarItem.remoteForeground": "#151523",
         "statusBarItem.warningForeground": "#fea144",
         "tab.activeBackground": "#2c2d42",
-        /**/"tab.activeBorderTop": "#FFBD96",
+        /**/ "tab.activeBorderTop": "#FFBD96",
         "tab.activeForeground": "#e9e9e9",
         "tab.activeModifiedBorder": "#c9c9c9",
         "tab.border": "#0000",
         "tab.hoverBackground": "#44455a",
-        "tab.hoverBorder": "#FFBD96",
+        /**/ "tab.hoverBorder": "#0000",
         "tab.hoverForeground": "#d9d9d9",
-        /**/"tab.inactiveBackground": "#1c1d32",
+        /**/ "tab.inactiveBackground": "#1c1d32",
         "tab.inactiveForeground": "#b9b9b9",
         "tab.inactiveModifiedBorder": "#b9b9b9",
         "tab.lastPinnedBorder": "#FFBD96",
