@@ -1,15 +1,14 @@
 {
-  "$schema": "vscode://schemas/color-theme",
   "name": "abrar-mystic-theme",
   "displayName": "Mystic Theme",
   "description": "A mysterious theme for proffesional.",
   "publisher": "AbrarShakhi",
-  "license": "MIT",
   "version": "2.1.0",
   "bugs": {
     "type": "git",
     "url": "https://github.com/AbrarShakhi/mystic-theme/issues"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/AbrarShakhi/mystic-theme"
@@ -42,19 +41,14 @@
         "path": "./themes/Mystic-Classic.json"
       },
       {
-        "label": "Mystic Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Mystic-Dark.json"
-      },
-      {
-        "label": "Mystic Box",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Mystic-Box.json"
-      },
-      {
         "label": "Mystic Cap",
         "uiTheme": "vs-dark",
         "path": "./themes/Mystic-Cap.json"
+      },
+      {
+        "label": "Mystic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-Dark.json"
       }
     ]
   }

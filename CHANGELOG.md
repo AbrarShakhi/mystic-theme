@@ -2,6 +2,15 @@
 
 ---
 
+## [3.1.0] - 3/18/2023
+
+### changed
+
+- token & scope
+- editor,terminal, panel, sidebar, sectionbar, etc
+
+---
+
 ## [2.1.0] - 3/18/2023
 
 ### added
