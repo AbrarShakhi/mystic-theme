@@ -2,6 +2,26 @@
 
 ---
 
+## [3.2.0] - 4/6/2023
+
+### fixed
+
+- terminal ansi yellow color.
+- charts yellow color.
+- editor Suggest Widget selected foreground color is now white instade of black.
+- git modified color is fixed.
+
+### added
+
+- activityBar active foreground.
+
+### changed
+
+- Mystic Dark active tab background color changed.
+- Tab active foreground color changed.
+
+---
+
 ## [3.1.0] - 4/1/2023
 
 ### fixed

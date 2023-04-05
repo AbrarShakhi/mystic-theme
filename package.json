@@ -14,25 +14,9 @@
     "url": "https://github.com/AbrarShakhi/mystic-theme"
   },
   "icon": "img/icon.png",
-  "engines": {
-    "vscode": "^1.76.0"
-  },
-  "keywords": [
-    "mystic Theme",
-    "mystictheme",
-    "material theme",
-    "material",
-    "dark",
-    "pro",
-    "themes",
-    "mystic",
-    "dark theme",
-    "darktheme",
-    "theme"
-  ],
-  "categories": [
-    "Themes"
-  ],
+  "engines": { "vscode": "^1.76.0" },
+  "keywords": [ "mystic Theme", "mystictheme", "material theme", "material", "dark", "pro", "themes", "mystic", "dark theme", "darktheme", "theme"],
+  "categories": [ "Themes" ],
   "contributes": {
     "themes": [
       {
