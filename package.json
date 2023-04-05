@@ -3,7 +3,7 @@
   "displayName": "Mystic Theme",
   "description": "A mysterious theme for proffesional.",
   "publisher": "AbrarShakhi",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "bugs": {
     "type": "git",
     "url": "https://github.com/AbrarShakhi/mystic-theme/issues"
@@ -14,9 +14,25 @@
     "url": "https://github.com/AbrarShakhi/mystic-theme"
   },
   "icon": "img/icon.png",
-  "engines": { "vscode": "^1.76.0" },
-  "keywords": [ "mystic Theme", "mystictheme", "material theme", "material", "dark", "pro", "themes", "mystic", "dark theme", "darktheme", "theme"],
-  "categories": [ "Themes" ],
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "keywords": [
+    "mystic Theme",
+    "mystictheme",
+    "material theme",
+    "material",
+    "dark",
+    "pro",
+    "themes",
+    "mystic",
+    "dark theme",
+    "darktheme",
+    "theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
