@@ -37,9 +37,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mystic Classic",
+        "label": "Mystic Cap",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mystic-Classic.json"
+        "path": "./themes/Mystic-Cap.json"
       },
       {
         "label": "Mystic Dark",
