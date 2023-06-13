@@ -2,6 +2,16 @@
 
 ---
 
+## [3.3.0] - 13/6/2023
+
+### changed
+
+- Some token color changed
+- Button color changed
+- Icon changed
+
+---
+
 ## [3.2.0] - 4/6/2023
 
 ### fixed

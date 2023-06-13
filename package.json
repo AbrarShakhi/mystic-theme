@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/color-theme",
   "name": "abrar-mystic-theme",
   "displayName": "Mystic Theme",
   "description": "A mysterious theme for proffesional.",
@@ -15,7 +16,7 @@
   },
   "icon": "img/icon.png",
   "engines": {
-    "vscode": "^1.76.0"
+    "vscode": "^1.78.0"
   },
   "keywords": [
     "mystic Theme",
@@ -39,11 +40,6 @@
         "label": "Mystic Classic",
         "uiTheme": "vs-dark",
         "path": "./themes/Mystic-Classic.json"
-      },
-      {
-        "label": "Mystic Cap",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Mystic-Cap.json"
       },
       {
         "label": "Mystic Dark",
