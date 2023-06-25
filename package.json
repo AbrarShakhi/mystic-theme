@@ -20,15 +20,15 @@
   },
   "keywords": [
     "mystic Theme",
-    "mystictheme",
-    "material theme",
-    "material",
     "dark",
+    "light",
+    "solarized",
     "pro",
     "themes",
     "mystic",
     "dark theme",
-    "darktheme",
+    "light theme",
+    "solarized theme",
     "theme"
   ],
   "categories": [
@@ -36,6 +36,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Mystic Solarized",
+        "uiTheme":"vs",
+        "path": "./themes/Mystic-Solarized.json"
+      },
       {
         "label": "Mystic Cap",
         "uiTheme": "vs-dark",

@@ -2,6 +2,13 @@
 
 ---
 
+## [3.5.0] - 25/6/2023
+
+- [new] light theme
+- [fized] CSS class, id token color changed
+
+---
+
 ## [3.4.0] - 13/6/2023
 
 ### fixed

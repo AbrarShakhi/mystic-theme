@@ -3,3 +3,5 @@ node_modules
 .vscode
 test-theme
 .vscode-test
+FixMe.txt
+themes/test.json
