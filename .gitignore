@@ -1,6 +1,5 @@
 node_modules
 *.vsix
-.vscode
 test-theme
 .vscode-test
 FixMe.txt

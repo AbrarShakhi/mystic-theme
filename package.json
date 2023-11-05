@@ -16,7 +16,7 @@
   },
   "icon": "img/icon.png",
   "engines": {
-    "vscode": "^1.78.0"
+    "vscode": "^1.84.0"
   },
   "keywords": [
     "mystic Theme",
@@ -37,9 +37,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Mystic Solarized",
-        "uiTheme": "vs",
-        "path": "./themes/Mystic-Solarized.json"
+        "label": "Mystic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mystic-Dark.json"
       },
       {
         "label": "Mystic Cap",
@@ -47,9 +47,9 @@
         "path": "./themes/Mystic-Cap.json"
       },
       {
-        "label": "Mystic Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Mystic-Dark.json"
+        "label": "Mystic Solarized",
+        "uiTheme": "vs",
+        "path": "./themes/Mystic-Solarized.json"
       }
     ]
   }

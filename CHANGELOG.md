@@ -2,6 +2,20 @@
 
 ---
 
+## [3.9.0] - 25/6/2023
+
+- [fixed] removed deprecated color.
+- [fixed] selection forground color is.
+
+---
+
+## [3.8.0] - 25/6/2023
+
+- [fized] python magic function forground color.
+- [fized] typescript type forground color.
+
+---
+
 ## [3.7.0] - 25/6/2023
 
 - [new] light theme

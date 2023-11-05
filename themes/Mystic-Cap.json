@@ -30,7 +30,10 @@
             }
         },
         {
-            "scope": "storage.type",
+            "scope": [
+                "storage.type",
+                "support.type"
+            ],
             "settings": {
                 "foreground": "#d88c9a"
             }
@@ -64,6 +67,7 @@
         {
             "scope": [
                 "entity.name.function",
+                "support.function",
                 "entity.name.method"
             ],
             "settings": {
@@ -275,8 +279,8 @@
         "editorGutter.modifiedBackground": "#FFBD96",
         "editorHoverWidget.background": "#44455a",
         "editorHoverWidget.border": "#0000",
-        "editorIndentGuide.background": "#7f7e8311",
-        "editorIndentGuide.activeBackground": "#7f7e8350",
+        "editorIndentGuide.background1": "#7f7e8311",
+        "editorIndentGuide.activeBackground2": "#7f7e8350",
         "editorLightBulb.foreground": "#c9c9c9",
         "editorLightBulbAutoFix.foreground": "#FFBD96",
         "editorLineNumber.activeForeground": "#FFBD96",
@@ -388,7 +392,7 @@
         "scrollbar.shadow": "#0000",
         "scrollbarSlider.activeBackground": "#c9c9c929",
         "scrollbarSlider.background": "#44455a99",
-        "selection.background": "#88dba8",
+        "selection.background": "#88dba857",
         "settings.headerForeground": "#FFBD96",
         "settings.modifiedItemIndicator": "#FFBD96",
         "settings.rowHoverBackground": "#44455a",
